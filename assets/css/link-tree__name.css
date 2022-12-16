@@ -1,0 +1,15 @@
+.link-tree__name {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: .5rem;
+    color: #ee443c;
+}
+
+.link-tree__frida {
+    
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: .5rem;
+    color: #ee443c;
+}

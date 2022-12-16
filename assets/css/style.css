@@ -1,0 +1,14 @@
+body {
+    font-family: 'roboto', sans-serif;
+    background: url(../src/img/background.jpg) no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.copyright {
+    margin-top: 1rem;
+    color: #ee4941;
+    font-weight: bold;
+}

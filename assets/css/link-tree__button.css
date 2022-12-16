@@ -1,0 +1,40 @@
+.link-tree__button {
+    display: flex;
+    margin: 1rem auto;
+    padding: .5rem 1rem;
+    width: 200px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, .5);
+    transition: .5s;
+    font-weight: bold;
+    color: #ee443c;
+    justify-content: center;
+}
+
+.link-tree__button:hover {
+    transition: .5s;
+    transform: scale(1.10);
+}
+
+.link-tree__button2 {
+    display: flex;
+    margin: 1rem auto;
+    padding: .5rem 1rem;
+    width: 200px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, .5);
+    transition: .5s;
+    font-weight: bold;
+    color: white;
+    justify-content: center;
+    background-color: #ee443c;
+}
+
+.link-tree__button2:hover {
+    transition: .5s;
+    transform: scale(1.10);
+}
