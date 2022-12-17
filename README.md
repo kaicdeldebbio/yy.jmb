@@ -1,4 +1,4 @@
-# jumorenobeauty<hr>
+<hr>
 <h1 align="center">Linktr.ee (Árvore Social) ☯️ | JMB 🦋</h1>
 
 ![image](https://i.imgur.com/WWMwO1k.png)
